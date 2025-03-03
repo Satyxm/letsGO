@@ -1,7 +1,9 @@
-
 # letsGO
 
-Welcome to **letsGO**, a collection of 306 Golang projects developed daily throughout 2025. This initiative aims to explore various aspects of Go programming, from basic syntax to advanced system design, reflecting the journey of a backend engineer.
+![Untitled design(1)](https://github.com/user-attachments/assets/c247b8f4-d69b-4522-af59-ba5bc1ad1fff)
+
+
+Welcome to **letsGO**, a collection of 306 Golang projects developed daily in 2025, exploring Go from it's core fundamentals to advanced system design.
 ---
 ## Introduction
 
