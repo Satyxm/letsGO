@@ -35,7 +35,3 @@ Fibonacci Sequence: [0 1 1 2 3 5 8 13 21 34]
 
 ## Dependencies
 - `github.com/spf13/cobra`
-
-## License
-This project is licensed under the MIT License.
-
