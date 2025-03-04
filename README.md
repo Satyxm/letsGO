@@ -36,7 +36,7 @@ Each project directory includes(depending on the project):
 ### March: Golang Basics & CLI Tools
 
 1. [Task Manager CLI](https://github.com/Satyxm/letsGO/tree/main/taskcli) ✅
-2. Fibonacci Generator CLI
+2. [Fibonacci Generator CLI](https://github.com/Satyxm/letsGO/tree/main/fibo_CLI) ✅
 3. JSON Parser CLI
 4. Simple HTTP Server
 5. CRUD Operations in Memory
