@@ -39,7 +39,7 @@ Each project directory includes(depending on the project):
 2. [Fibonacci Generator CLI](https://github.com/Satyxm/letsGO/tree/main/fibo_CLI) ✅
 3. [JSON Parser CLI](https://github.com/Satyxm/letsGO/tree/main/jsonparser) ✅
 4. [Simple HTTP Server](https://github.com/Satyxm/letsGO/tree/main/httpserver) ✅
-5. CRUD Operations in Memory
+5. [CRUD Operations in Memory](https://github.com/Satyxm/letsGO/tree/main/crudGO) ✅
 6. File Encryption Tool (AES)
 7. URL Shortener (in-memory)
 8. Basic TCP Server and Client
