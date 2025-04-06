@@ -40,7 +40,7 @@ Each project directory includes(depending on the project):
 3. [JSON Parser CLI](https://github.com/Satyxm/letsGO/tree/main/jsonparser) ✅
 4. [Simple HTTP Server](https://github.com/Satyxm/letsGO/tree/main/httpserver) ✅
 5. [CRUD Operations in Memory](https://github.com/Satyxm/letsGO/tree/main/crudGO) ✅
-6. File Encryption Tool (AES)
+6. [File Encryption Tool (AES) / CRUD App] - (https://github.com/Satyxm/letsGO/tree/main/crudGO)
 7. URL Shortener (in-memory)
 8. Basic TCP Server and Client
 9. Markdown to HTML Converter
